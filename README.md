@@ -1,1 +1,1 @@
-# java-script-practice1
+https://mdbulbul.github.io/java-script-practice1/
